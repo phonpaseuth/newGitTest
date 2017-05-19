@@ -1,3 +1,7 @@
 this file was created by user 1
 
+<<<<<<< HEAD
 user 2 was here
+=======
+screw user 2!
+>>>>>>> 4780ddf1a79df68fc83db1b67e003b9ad898eaa1
